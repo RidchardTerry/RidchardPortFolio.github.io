@@ -8,7 +8,7 @@
 
 ---
 ### Tales Of Harmony : My personal project (Pre-production)<br>
-[Example of Game Design document (PDF)](/pdf/Resume_2Pattanan2026.pdf)<br>
+[Example of Game Design document (PDF)](/pdf/Example_of_Gamedesign_document_compressed.pdf)<br>
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
